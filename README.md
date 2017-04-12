@@ -99,5 +99,3 @@ Sign Language Interpretation system made for converting sign language to audio. 
   * Rama Kumar
 
   * Aditya Panwar
-
-developed in vacation of 2nd year
