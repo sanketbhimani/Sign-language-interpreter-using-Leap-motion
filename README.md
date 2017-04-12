@@ -100,3 +100,4 @@ Sign Language Interpretation system made for converting sign language to audio. 
 
   * Aditya Panwar
 
+developed in vacation of 2nd year
