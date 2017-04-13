@@ -4,9 +4,9 @@
 
 ***
 
-# Sign Language Interpretation And Robotic Hand With Natural Control System
+# Sign Language Interpretation
 
-Sign Language Interpretation project is to help hearing-impaired and verbally challenged people to communicate with other people. This system will try to interpret the sign language into natural voice. so other people can understand what they want to say. And the robotic hand is just for application of leap motion sensor and galileo board.
+Sign Language Interpretation project is to help hearing-impaired and verbally challenged people to communicate with other people. This system will try to interpret the sign language into natural voice. so other people can understand what they want to say.
 
 
 
@@ -20,9 +20,6 @@ This project uses the following components:
 
 * **Communication Protocol:** WebSocket, UART
 
-* **InMoov Robotic Hand**
-
-* **Servo Motors**
 
 
 
@@ -30,7 +27,7 @@ This project uses the following components:
 
 ***
 
-Sign Language Interpretation system made for converting sign language to audio. After recognizing words, the system will make the whole sentence using NLTK and play pre-recorded files from MP3 module. In another part,whatever a person will perform on leap motion sensor, the robotic hand will replicate that pose.
+Sign Language Interpretation system made for converting sign language to audio. After recognizing words, the system will make the whole sentence using NLTK and play pre-recorded files from MP3 module.
 
 
 
@@ -48,13 +45,6 @@ Sign Language Interpretation system made for converting sign language to audio. 
 
 - Conversion of a set of words to a natural sentence.
 
-**Robotic Hand With Natural Control System**
-
-- Easy to assemble design
-
-- Easy to control with your hand
-
-
 
 ##Key Tasks
 
@@ -68,12 +58,6 @@ Sign Language Interpretation system made for converting sign language to audio. 
 
 * Interfacing MP3 module with Galileo Board.
 
-* Driving Servo with Galileo Board
-
-* Assembling Robotic Hand.
-
-* Mapping hand movement with servo angle
-
 
 
 
@@ -83,8 +67,6 @@ Sign Language Interpretation system made for converting sign language to audio. 
 ***
 
 * Sign Language Interpretation System
-
-* Robotic Hand
 
 * Code and Documentation
 
